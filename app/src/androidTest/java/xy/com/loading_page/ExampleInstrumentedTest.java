@@ -1,4 +1,4 @@
-package xy.com.loading_page;
+package xy.com.demo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

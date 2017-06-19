@@ -15,3 +15,11 @@ dependencies {
 	        compile 'com.github.xieyang94:loading-page:1.0'
 	}
   ![Image text](https://github.com/xieyang94/loading-page/blob/master/3333.gif)
+  
+ How to use：
+  
+<xy.com.loading_page.LoadingPage
+            android:id="@+id/loading"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+	   
